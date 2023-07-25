@@ -1,0 +1,5 @@
+The Oden project interface leans more on documentation than interaction. It provides learners with documentation on Git. Learners learn the basic Git commands and how to apply them on Git and GitHub.
+
+The course comes with blocks of code and screenshots of expected output. This helps learners know what to expect when they try the code on their text editors. There's great knowledge to get from this course, whether you are a beginner or wish to refresh your skills.
+
+You will learn how to create repositories, pull and Push files to GitHub, and take code snapshots. You will have access to their Git cheat sheet, which has 70% of commonly used Git commands. You will also learn Git best practices, such as how to set up and document your README.md.
